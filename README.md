@@ -1,0 +1,1 @@
+This repository demonstrates a common error in F# involving mutable variables and function scope.  The `bug.fs` file contains code that attempts to swap two mutable variables using a function, but the swap does not reflect outside the function. The `bugSolution.fs` file shows the corrected implementation.
